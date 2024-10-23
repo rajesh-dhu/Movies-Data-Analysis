@@ -1,6 +1,4 @@
 ---
-title: "Assignment 2"
-student Id: "21314174"
 author: "Rajesh Dhungna"
 date: "2023-10-14"
 output: html_document
